@@ -1,0 +1,6 @@
+[package]
+name = "references"
+version = "0.1.0"
+authors = ["Amazingmo <36059812+amazingmo@users.noreply.github.com>"]
+
+[dependencies]
